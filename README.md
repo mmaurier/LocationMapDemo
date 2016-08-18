@@ -1,3 +1,2 @@
 # LocationMapDemo
-Coding project from Udemy.com: "The Complete Android Developer Course"
-Show map and location
+Coding project from Udemy.com: "The Complete Android Developer Course".<br />Show map and current location.
